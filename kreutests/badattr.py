@@ -1,4 +1,4 @@
-class BadAttr(type):
+class BadAttr(object):
     """A class used to represent an unsupported
     type which will be provided to the parser and
     will therefore trigger a rare exception.
