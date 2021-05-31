@@ -4,8 +4,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="Kreusada",
-    version="1.0.0",
+    name="kreutests",
+    version="1.0.1",
     author="Kreusada",
     author_email="kreusadaprojects@gmail.com",
     description="Pypi project used for testing.",
